@@ -1,0 +1,8 @@
+C:\Users\hp\Desktop\yeni denemeler\GirilenAdetdekiSayılarınToplamı\bin\Debug\GirilenAdetdekiSayılarınToplamı.exe.config
+C:\Users\hp\Desktop\yeni denemeler\GirilenAdetdekiSayılarınToplamı\bin\Debug\GirilenAdetdekiSayılarınToplamı.exe
+C:\Users\hp\Desktop\yeni denemeler\GirilenAdetdekiSayılarınToplamı\bin\Debug\GirilenAdetdekiSayılarınToplamı.pdb
+C:\Users\hp\Desktop\yeni denemeler\GirilenAdetdekiSayılarınToplamı\obj\Debug\GirilenAdetdekiSayılarınToplamı.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\yeni denemeler\GirilenAdetdekiSayılarınToplamı\obj\Debug\GirilenAdetdekiSayılarınToplamı.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\yeni denemeler\GirilenAdetdekiSayılarınToplamı\obj\Debug\GirilenAdetdekiSayılarınToplamı.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\yeni denemeler\GirilenAdetdekiSayılarınToplamı\obj\Debug\GirilenAdetdekiSayılarınToplamı.exe
+C:\Users\hp\Desktop\yeni denemeler\GirilenAdetdekiSayılarınToplamı\obj\Debug\GirilenAdetdekiSayılarınToplamı.pdb
